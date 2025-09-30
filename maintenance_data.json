@@ -1,0 +1,661 @@
+{
+  "fleet": {
+    "T648": {
+      "description": "Tracto Terberg",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "en mantenimiento",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "T659": {
+      "description": "Tracto Terberg",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "T779": {
+      "description": "Tracto Terberg",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "en mantenimiento",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "T789": {
+      "description": "Tracto Terberg",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "T73": {
+      "description": "Tracto Terberg",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "T74": {
+      "description": "Tracto Terberg",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "K69": {
+      "description": "Tracto Kalmar",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "K71": {
+      "description": "Tracto Kalmar",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "K72": {
+      "description": "Tracto Kalmar",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "K73": {
+      "description": "Tracto Kalmar",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "K75": {
+      "description": "Tracto Kalmar",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "K76": {
+      "description": "Tracto Kalmar",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "M01": {
+      "description": "Tracto MOL",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "M02": {
+      "description": "Tracto MOL",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "M03": {
+      "description": "Tracto MOL",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    },
+    "M04": {
+      "description": "Tracto MOL",
+      "horometro": 0.0,
+      "odometro": 0.0,
+      "status": "operativo",
+      "components": [
+        {
+          "name": "Amortiguadores",
+          "criticidad": "alta",
+          "hours_interval": 500,
+          "km_interval": 50000,
+          "days_interval": 365,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Limpiaparabrisas",
+          "criticidad": "alta",
+          "hours_interval": 200,
+          "km_interval": null,
+          "days_interval": 180,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        },
+        {
+          "name": "Luces",
+          "criticidad": "alta",
+          "hours_interval": null,
+          "km_interval": null,
+          "days_interval": 90,
+          "last_service_date": "2025-09-28",
+          "last_service_hours": 0.0,
+          "last_service_km": 0.0
+        }
+      ]
+    }
+  },
+  "inventory": {
+    "Amortiguador delantero": {
+      "stock": 10,
+      "min_stock": 2,
+      "fits_components": [
+        "Amortiguadores"
+      ]
+    },
+    "Plumillas limpiaparabrisas": {
+      "stock": 20,
+      "min_stock": 5,
+      "fits_components": [
+        "Limpiaparabrisas"
+      ]
+    },
+    "Foco delantero": {
+      "stock": 30,
+      "min_stock": 5,
+      "fits_components": [
+        "Luces"
+      ]
+    }
+  },
+  "pending_orders": [
+    {
+      "id": "0ca7ceb2339044dd8df4e28e95efe657",
+      "equipment_id": "T779",
+      "component_name": "asass",
+      "due_date": "2025-09-28",
+      "reason": "Solicitud de operaciones: ",
+      "classification": "alta",
+      "materials_used": [],
+      "status": "pendiente",
+      "created_at": "2025-09-28T17:03:18.380878",
+      "completed_at": null,
+      "start_time": null
+    }
+  ],
+  "work_requests": [
+    {
+      "id": "741b2c1bb7394752b171465517309cf6",
+      "equipment_id": "T779",
+      "component_name": "asass",
+      "classification": "alta",
+      "comments": "",
+      "photo_name": null,
+      "horometro": 12000.0,
+      "date": "2025-09-28",
+      "status": "procesada",
+      "created_at": 
